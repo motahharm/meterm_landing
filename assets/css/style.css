@@ -9,6 +9,10 @@
     --gradient-2: #f12711;
 }
 
+[v-clock] {
+  display: none;
+}
+
 * {
     padding: 0;
     margin: 0;
